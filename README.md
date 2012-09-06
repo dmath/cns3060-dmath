@@ -1,3 +1,7 @@
+Daniel Matheson
+=============
+CS 3060
+dmath@rocketmail.com
 cns3060-dmath
 =============
 

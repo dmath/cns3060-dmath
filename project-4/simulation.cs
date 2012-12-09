@@ -122,7 +122,7 @@ namespace dsksched
                     allProducts.RemoveAt(i);
             }
             allProducts.Add(-1);
-            fcfs(allProducts);
+            sstf(allProducts);
         }
 
     }
